@@ -1,1 +1,1 @@
-# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/s3cjq8v57kvm9fek?svg=true)](https://ci.appveyor.com/project/alexdnf/api-and-ci-hw)
+[![Java CI with Gradle](https://github.com/alexdnf/DemoCI-CD/actions/workflows/%20gradle.yml/badge.svg)](https://github.com/alexdnf/DemoCI-CD/actions/workflows/%20gradle.yml)
