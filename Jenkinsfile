@@ -8,7 +8,7 @@ pipeline {
     sh 'java -jar ./artifacts/app-mbank.jar &'
     
     // Запускаем тесты с выводом информации
-    sh 'sudo ./gradlew test --info'
+    sh './gradlew test --info'
 }
         }
     }
