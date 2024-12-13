@@ -14,4 +14,4 @@
    - USB
    - RUB
 
-## Развернуть приложение можно с помощью Jenkins и pipline, описанного в Jenkinsfile..
+## Развернуть приложение можно с помощью Jenkins и pipline, описанного в Jenkinsfile.
