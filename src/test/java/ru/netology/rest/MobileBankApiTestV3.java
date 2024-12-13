@@ -15,7 +15,7 @@ class MobileBankApiTestV3 {
       .when()
           .get("/demo/accounts")
       .then()
-          .statusCode(400)
+          .statusCode(200)
           .contentType(ContentType.JSON)
           .body("", hasSize(3))
           .body("[0].currency", equalTo("RUB"))
